@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+body.light {
+  background: #f6f6f6;
+  color: #222;
+}
+
+body.dark {
+  background: #222;
+  color: #f6f6f6;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
